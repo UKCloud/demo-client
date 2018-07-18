@@ -18,6 +18,7 @@ RUN set -x && \
   echo "Done"
 
 COPY terraform.rc /root/.terraformrc
+COPY motd.txt /etc/motd
  
 ENV ANSIBLE_GATHERING smart
 ENV ANSIBLE_HOST_KEY_CHECKING false

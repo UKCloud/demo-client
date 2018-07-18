@@ -9,3 +9,12 @@ The following clients are included:
 - Ansible
 - Terraform
 
+** This software is provided as-is with no warranty **
+
+This software is published under the Apache 2.0 license.
+
+The full text of this license can be found here:
+
+  https://www.apache.org/licenses/LICENSE-2.0
+
+
