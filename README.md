@@ -7,5 +7,5 @@ The following clients are included:
 
 - OpenStack Command Line Client
 - Ansible
-- Terraform (TBD)
+- Terraform
 
